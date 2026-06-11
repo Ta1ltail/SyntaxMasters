@@ -1,0 +1,8 @@
+target/
+*.class
+.netbeans/
+nb-configuration.xml
+nbproject/private/
+build/
+dist/
+*.log
